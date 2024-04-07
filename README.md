@@ -24,6 +24,12 @@ Scan The URL in ```Expo Go``` App in android.
 [Step 5]:
 Do the testing..
 
+<h2>Video</h2>
+
+https://github.com/anshul-kh/Nutrisense/assets/122505679/6b1a00cb-86f8-4696-8fb4-d11273729f96
+
+
+
 
 
 
