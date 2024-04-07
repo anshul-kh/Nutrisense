@@ -28,6 +28,12 @@ Do the testing..
 
 https://github.com/anshul-kh/Nutrisense/assets/122505679/6b1a00cb-86f8-4696-8fb4-d11273729f96
 
+![1712500081300](https://github.com/anshul-kh/Nutrisense/assets/122505679/93641dbb-1be9-4129-b309-832d9a0a7b18)
+![1712500081291](https://github.com/anshul-kh/Nutrisense/assets/122505679/00df3563-6b04-4824-bc0d-7222e0df73cc)
+
+
+
+
 
 
 
